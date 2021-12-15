@@ -3,3 +3,4 @@ mount /dev/cdrom /mnt/tmp
 cd /mnt/tmp/Linux/
 ./install.sh
 umount /mnt/tmp
+2nd line
